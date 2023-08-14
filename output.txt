@@ -1,18 +1,20 @@
+*******************************************************************************************************
+-------------------------------Welcome To Taskmaster -------------------------------------------------
 1: New user Registration 
 2: Log in to your TaskMaster
 Enter Your Choice
 2
-********************************************************************
-------------------------------Log In -------------------------------
+*******************************************************************************************************
+--------------------------------------------Log In ----------------------------------------------
 
 Enter your name:
 shiva2
 Enter your password:
 Shiva
 shiva2  Shiva
------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 Logged In Successfully
------------------------------Remainder --------------------------------------------
+----------------------------------------------------Remainder -----------------------------------------------
 Below task please Complete today itself
 2023-08-14
 2023-08-14
@@ -38,36 +40,12 @@ Please select number from 1 to 8
 Database Connected
 shiva2
 Enter task Name 
-planning
+Integration
 Enter Priority of task at that day
-1
+3
 Enter date yyyy-mm-dd
 2023-08-14
 Task Addedd Succesfully
-------------------------------------------------------------------------------------------
-Enter What you Want to do 
-1. Add New Task
-2. Mark as Done 
-3. List pending Task
-4. Remove Completed Task
-5. Check Priority of Pending Task Tasks
-6. View All Task
- 7. Remainder
- 8. Exit from system
-Please select number from 1 to 8
-2
------------------------------------------------------------------------
-Id 		 Task Name		 Status 		 priority 		 Duedate
-12		design		Not Completed 		1		2023-08-14
-14		planning		Not Completed 		1		2023-08-14
-9		coding		Not Completed 		2		2023-08-14
-11		Integration		Not Completed 		1		2023-08-15
-13		Maintainance		Not Completed 		2		2023-08-16
------------------------------------------------------------------------
------------------------------------------------------------------------
-Enter Task Id
-14
-Status Changed !
 ------------------------------------------------------------------------------------------
 Enter What you Want to do 
 1. Add New Task
@@ -85,23 +63,12 @@ Please select number from 1 to 8
 Id 		 Task Name		 Status 		 priority 		 Duedate
 12		design		Not Completed 		1		2023-08-14
 9		coding		Not Completed 		2		2023-08-14
+16		Integration		Not Completed 		3		2023-08-14
 11		Integration		Not Completed 		1		2023-08-15
+15		unit testing		Not Completed 		2		2023-08-15
 13		Maintainance		Not Completed 		2		2023-08-16
 ---------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------
-Enter What you Want to do 
-1. Add New Task
-2. Mark as Done 
-3. List pending Task
-4. Remove Completed Task
-5. Check Priority of Pending Task Tasks
-6. View All Task
- 7. Remainder
- 8. Exit from system
-Please select number from 1 to 8
-4
-Completed task deleted successfully !!
 ------------------------------------------------------------------------------------------
 Enter What you Want to do 
 1. Add New Task
@@ -118,7 +85,9 @@ Please select number from 1 to 8
 Id 		 Task Name		 Status 		 priority 		 Duedate
 12		design		Not Completed 		1		2023-08-14
 9		coding		Not Completed 		2		2023-08-14
+16		Integration		Not Completed 		3		2023-08-14
 11		Integration		Not Completed 		1		2023-08-15
+15		unit testing		Not Completed 		2		2023-08-15
 13		Maintainance		Not Completed 		2		2023-08-16
 -----------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
@@ -137,30 +106,11 @@ Please select number from 1 to 8
 Id 		 Task Name		 Status 		 priority 		 Duedate
 12		design		Not Completed 		1		2023-08-14
 9		coding		Not Completed 		2		2023-08-14
+16		Integration		Not Completed 		3		2023-08-14
 11		Integration		Not Completed 		1		2023-08-15
+15		unit testing		Not Completed 		2		2023-08-15
 13		Maintainance		Not Completed 		2		2023-08-16
 -----------------------------------------------------------------------
-------------------------------------------------------------------------------------------
-Enter What you Want to do 
-1. Add New Task
-2. Mark as Done 
-3. List pending Task
-4. Remove Completed Task
-5. Check Priority of Pending Task Tasks
-6. View All Task
- 7. Remainder
- 8. Exit from system
-Please select number from 1 to 8
-7
-
-
-Enter choise
-1. Todays Remaining Task
-2. Tommarows Tasks
- 3. All Remaining Task
-7
-please Enter Values Between 1 to 3 Only
-Please enter 1 to 8 only
 ------------------------------------------------------------------------------------------
 Enter What you Want to do 
 1. Add New Task
@@ -188,6 +138,7 @@ Below task please Complete today itself
 Id 		 Task Name		 Status 		 priority 		 Duedate
 12		design		Not Completed 		1		2023-08-14
 9		coding		Not Completed 		2		2023-08-14
+16		Integration		Not Completed 		3		2023-08-14
 Please enter 1 to 8 only
 ------------------------------------------------------------------------------------------
 Enter What you Want to do 
@@ -211,6 +162,7 @@ Enter choise
 ---------------------------------------------------------------------------------------
 Id 		 Task Name		 Status 	 priority 		 Duedate
 11  		Integration 				Not Completed 				 1				2023-08-15
+15  		unit testing 				Not Completed 				 2				2023-08-15
 ----------------------------------------------------------------------------------------
 Please enter 1 to 8 only
 ------------------------------------------------------------------------------------------
@@ -236,10 +188,94 @@ Enter choise
 Id 		 Task Name		 Status 		 priority 		 Duedate
 12		design		Not Completed 		1		2023-08-14
 9		coding		Not Completed 		2		2023-08-14
+16		Integration		Not Completed 		3		2023-08-14
 11		Integration		Not Completed 		1		2023-08-15
+15		unit testing		Not Completed 		2		2023-08-15
 13		Maintainance		Not Completed 		2		2023-08-16
 -----------------------------------------------------------------------
 Please enter 1 to 8 only
+------------------------------------------------------------------------------------------
+Enter What you Want to do 
+1. Add New Task
+2. Mark as Done 
+3. List pending Task
+4. Remove Completed Task
+5. Check Priority of Pending Task Tasks
+6. View All Task
+ 7. Remainder
+ 8. Exit from system
+Please select number from 1 to 8
+2
+-----------------------------------------------------------------------
+Id 		 Task Name		 Status 		 priority 		 Duedate
+12		design		Not Completed 		1		2023-08-14
+9		coding		Not Completed 		2		2023-08-14
+16		Integration		Not Completed 		3		2023-08-14
+11		Integration		Not Completed 		1		2023-08-15
+15		unit testing		Not Completed 		2		2023-08-15
+13		Maintainance		Not Completed 		2		2023-08-16
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Enter Task Id
+12
+Status Changed !
+------------------------------------------------------------------------------------------
+Enter What you Want to do 
+1. Add New Task
+2. Mark as Done 
+3. List pending Task
+4. Remove Completed Task
+5. Check Priority of Pending Task Tasks
+6. View All Task
+ 7. Remainder
+ 8. Exit from system
+Please select number from 1 to 8
+2
+-----------------------------------------------------------------------
+Id 		 Task Name		 Status 		 priority 		 Duedate
+12		design		completed		1		2023-08-14
+9		coding		Not Completed 		2		2023-08-14
+16		Integration		Not Completed 		3		2023-08-14
+11		Integration		Not Completed 		1		2023-08-15
+15		unit testing		Not Completed 		2		2023-08-15
+13		Maintainance		Not Completed 		2		2023-08-16
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Enter Task Id
+9
+Status Changed !
+------------------------------------------------------------------------------------------
+Enter What you Want to do 
+1. Add New Task
+2. Mark as Done 
+3. List pending Task
+4. Remove Completed Task
+5. Check Priority of Pending Task Tasks
+6. View All Task
+ 7. Remainder
+ 8. Exit from system
+Please select number from 1 to 8
+4
+Completed task deleted successfully !!
+------------------------------------------------------------------------------------------
+Enter What you Want to do 
+1. Add New Task
+2. Mark as Done 
+3. List pending Task
+4. Remove Completed Task
+5. Check Priority of Pending Task Tasks
+6. View All Task
+ 7. Remainder
+ 8. Exit from system
+Please select number from 1 to 8
+6
+-----------------------------------------------------------------------
+Id 		 Task Name		 Status 		 priority 		 Duedate
+16		Integration		Not Completed 		3		2023-08-14
+11		Integration		Not Completed 		1		2023-08-15
+15		unit testing		Not Completed 		2		2023-08-15
+13		Maintainance		Not Completed 		2		2023-08-16
+-----------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 Enter What you Want to do 
 1. Add New Task
